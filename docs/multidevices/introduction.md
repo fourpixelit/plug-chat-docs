@@ -11,7 +11,7 @@ O que é ? onde vive ? do que se alimenta ?
 
 Brincadeiras à parte, hoje estamos aqui para falar um pouquinho da nova versão do Whatsapp e suas principais características, vamos separar alguns tópicos a seguir para tentar te contextualizar da melhor forma.
 
-Mas antes disso ccredito que ninguem melhor que o proprio Whatsapp para falar desta nova feature por isso vamos deixar aqui o link para acompanhar direto da fonte :)
+Mas antes disso acredito que ninguém melhor que o proprio Whatsapp para falar desta nova feature por isso vamos deixar aqui o link para acompanhar direto da fonte :)
 
 https://faq.whatsapp.com/general/download-and-installation/about-multi-device-beta/?lang=pt_br
 
@@ -53,4 +53,4 @@ E o Plug é compatível com esta nova versão ?
 
 Sim ! Temos orgulho em compartilhar que conseguimos compatibilizar todos os métodos e abstrair toda complexidade da nova versão afim de entregar à nossos clientes de uma forma simples e transparente todos recursos desta nova versão.
 
-Mas calma, as mudanças foram muito além das features citadas acima, existem bem mais coisas envolidas, para nós a mais critica foi a mudança no modelo de criptografia que permite que mesmo sem o celular ligado toda a segurança no trafego de mensagens de ponta a ponta.
+Mas calma, as mudanças foram muito além das features citadas acima, existem bem mais coisas envolvidas, para nós a mais critica foi a mudança no modelo de criptografia que permite que mesmo sem o celular ligado toda a segurança no trafego de mensagens de ponta a ponta.

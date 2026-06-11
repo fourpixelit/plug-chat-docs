@@ -25,7 +25,7 @@ Neste método você poderá enviar mensagens de texto com uma lista de opções,
 
 :::caution IMPORTANTE
 
-Esta funcionalidade está disponivel apenas para envios com contas Whatsapp NÃO COMERCIAL.
+Esta funcionalidade está disponível apenas para envios com contas Whatsapp NÃO COMERCIAL.
 
 :::
 
@@ -52,8 +52,8 @@ Esta funcionalidade está disponivel apenas para envios com contas Whatsapp NÃO
 | Atributos   |  Tipo  | Descrição                       |
 | :---------- | :----: | :------------------------------ |
 | title       | string | Titulo da listagem              |
-| buttonLabel | string | Texto do botao que abre a lista |
-| options     | option | Litas de opções                 |
+| buttonLabel | string | Texto do botão que abre a lista |
+| options     | option | Listas de opções                 |
 
 ### Option
 
@@ -117,7 +117,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

@@ -1,5 +1,5 @@
 ---
-id:id: group-invitation-metadata
+id: group-invitation-metadata
 
 title: Metadata do Grupo por Convite
 ---

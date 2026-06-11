@@ -33,7 +33,7 @@ Neste [link] você encontra tudo que precisa saber sobre formatos e tamanhos de 
 
 ## Conceituação
 
-Método responsavel por enviar documentos aos seus contatos ele é simples e objetivo.
+Método responsável por enviar documentos aos seus contatos ele é simples e objetivo.
 
 ---
 
@@ -88,7 +88,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

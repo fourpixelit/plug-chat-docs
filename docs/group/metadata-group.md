@@ -1,5 +1,5 @@
 ---
-id:id: metadata-group
+id: metadata-group
 
 title: Metadata do Grupo
 ---
@@ -20,11 +20,11 @@ title: Metadata do Grupo
 
 ## Conceituação
 
-Este método retorna o metadata do grupo com todas informações do grupo e de seus partipantes.
+Este método retorna o metadata do grupo com todas informações do grupo e de seus participantes.
 
 :::caution Atenção
 
-No dia 4 de novembro de 2021 o whatsapp alterou a formato da criação de novos grupos, antes: "phone": "5511999999999-1623281429" agora: "phone": "120363019502650977-group"
+No dia 4 de novembro de 2021 o whatsapp alterou o formato da criação de novos grupos, antes: "phone": "5511999999999-1623281429" agora: "phone": "120363019502650977-group"
 
 :::
 
@@ -84,7 +84,7 @@ Forma antiga -
   {
     "phone": "5511999999999-1623281429",
     "owner": "5511999999999",
-    "subject": "Meu grupo no PLug",
+    "subject": "Meu grupo no Plug",
     "creation": 1588721491000,
     "participants": [
       {
@@ -135,7 +135,7 @@ Forma antiga -
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

@@ -21,11 +21,11 @@ title: Enviar link
 
 ## Conceituação
 
-Método responsavel por enviar um link aos seus contatos, muito utilzado para compartilhar links para que os usuários sejam direcionados a um site.
+Método responsável por enviar um link aos seus contatos, muito utilizado para compartilhar links para que os usuários sejam direcionados a um site.
 
 :::tip Sobre links
 
-É importante você saber que o link só fica clicavel caso o destinatário ja tenha seu telefone nos contatos, ou se o mesmo iniciar uma conversa com vocë.
+É importante você saber que o link só fica clicável caso o destinatário já tenha seu telefone nos contatos, ou se o mesmo iniciar uma conversa com você.
 
 :::
 
@@ -88,7 +88,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 
