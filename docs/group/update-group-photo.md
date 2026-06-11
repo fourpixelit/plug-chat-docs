@@ -90,7 +90,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique-se que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

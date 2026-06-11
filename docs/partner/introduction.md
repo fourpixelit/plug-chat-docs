@@ -7,9 +7,9 @@ title: Introdução
 
 ### Boas Vindas
 
-Se você esta neste tópico ja quebrou algumas castanhas com a gente não é mesmo ?
+Se você está neste tópico já quebrou algumas castanhas com a gente não é mesmo ?
 
-Estamos muito felizes em você considerar ser um parceiro integrador nosso, queremos muito ser benção em seus negócios e esperamos que você prospere muito, e obvio esperamos poder lhe ajudar nesta empreitada, por isso agora que você já atingiu 25 licenças já nos conhecemos bem e nossa parceria fica ainda mais forte estaremos aqui prontos para lhe ajudar e crecermos juntos, por isso conte com a gente !
+Estamos muito felizes em você considerar ser um parceiro integrador nosso, queremos muito ser benção em seus negócios e esperamos que você prospere muito, e óbvio esperamos poder lhe ajudar nesta empreitada, por isso agora que você já atingiu 25 licenças já nos conhecemos bem e nossa parceria fica ainda mais forte estaremos aqui prontos para lhe ajudar e crescermos juntos, por isso conte com a gente !
 
 ### Modelo de Integrador
 
@@ -35,7 +35,7 @@ Os tokens contém um número limite de utilização, mas durante nossa parceria 
 
 #### Token definitivo
 
-> Com este token o céu é o límite ;)
+> Com este token o céu é o limite ;)
 
 ---
 

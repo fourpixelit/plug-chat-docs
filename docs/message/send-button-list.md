@@ -21,7 +21,7 @@ title: Enviar texto com botões
 
 ## Conceituação
 
-Neste método você poderá enviar mensagens de texto com botões de ação, o conteudo do botão ex: SIM / Não, poderão ser escolhidos pelo usuário e será utilizado como resposta da mensagem enviada junto com os botões.
+Neste método você poderá enviar mensagens de texto com botões de ação, o conteúdo do botão ex: SIM / Não, poderão ser escolhidos pelo usuário e será utilizado como resposta da mensagem enviada junto com os botões.
 
 ---
 
@@ -75,7 +75,7 @@ Neste método você poderá enviar mensagens de texto com botões de ação, o c
       },
       {
         "id": "2",
-        "label": "Excelênte"
+        "label": "Excelente"
       }
     ]
   }
@@ -104,7 +104,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

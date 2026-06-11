@@ -1,5 +1,5 @@
 ---
-id:id: add-admin
+id: add-admin
 
 title: Promover admin do grupo
 ---
@@ -20,7 +20,7 @@ title: Promover admin do grupo
 
 ## Conceituação
 
-Este método é responsável por promover participamentes do grupo à administradores, você pode provomover um ou mais participamente à administrador.
+Este método é responsável por promover participantes do grupo a administradores, você pode promover um ou mais participantes à administrador.
 
 :::caution Atenção
 
@@ -92,7 +92,7 @@ Forma nova -
 
 ### 405
 
-Neste caso certifique-se que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

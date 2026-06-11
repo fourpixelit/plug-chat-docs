@@ -21,7 +21,7 @@ title: Enviando texto status
 
 ## Conceituação
 
-Você pode postar textos no seu status e este método é responsavel por isso, lembre-se que os status somem após 24 horas.
+Você pode postar textos no seu status e este método é responsável por isso, lembre-se que os status somem após 24 horas.
 
 ---
 
@@ -81,7 +81,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

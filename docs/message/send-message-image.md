@@ -21,7 +21,7 @@ title: Enviar imagem
 
 ## Conceituação
 
-Método responsavel por enviar imagens para os seus chats você pode trabalhar com as imagens de 2 formas que são:
+Método responsável por enviar imagens para os seus chats você pode trabalhar com as imagens de 2 formas que são:
 
 - Por Link, onde você tem uma imagem hospedada em algum lugar da internet e envia apenas o link da mesma.
 
@@ -112,7 +112,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

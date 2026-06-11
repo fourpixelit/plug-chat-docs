@@ -11,7 +11,7 @@ title: Pegar Produtos
 
 ---
 
-## Condeituação
+## Conceituação
 
 Nesse método você será capaz de pegar os produtos de um catálogo do whatsapp Business
 
@@ -53,7 +53,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 

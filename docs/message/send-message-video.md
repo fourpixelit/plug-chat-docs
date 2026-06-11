@@ -21,15 +21,15 @@ title: Enviar video
 
 ## Conceituação
 
-Método responsavel por enviar audios para os seus chats, você pode trabalhar com as audios de 2 formas que são:
+Método responsável por enviar vídeos para os seus chats, você pode trabalhar com os vídeos de 2 formas que são:
 
-Por Link, onde você temum video hospedado em algum lugar da internet e envia apenas o link da mesmo.
+Por Link, onde você tem um vídeo hospedado em algum lugar da internet e envia apenas o link da mesmo.
 
-Por Base64, se você optar por esta opção precisará ter em sua aplicação um método para converter o video em Base64.
+Por Base64, se você optar por esta opção precisará ter em sua aplicação um método para converter o vídeo em Base64.
 
 ### Tamanho e formatos
 
-O Whatsapp limita o tamanho de arquivos e sua politica muda constantemente, por isso sempre recomendamos a verificação direto no site do próprio Whatsapp.
+O Whatsapp limita o tamanho de arquivos e sua política muda constantemente, por isso sempre recomendamos a verificação direto no site do próprio Whatsapp.
 
 Neste [link] você encontra tudo que precisa saber sobre formatos e tamanhos de arquivos.
 
@@ -86,7 +86,7 @@ Exemplo
 
 ### 405
 
-Neste caso certifique que esteja enviando o corretamente a especificação do método, ou seja verifique se você enviou o POST ou GET conforme especificado no inicio deste tópico.
+Neste caso certifique-se de que está enviando corretamente a especificação do método, ou seja, verifique se você enviou o POST ou GET conforme especificado no início deste tópico.
 
 ### 415
 
